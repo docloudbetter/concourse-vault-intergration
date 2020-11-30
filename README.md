@@ -23,6 +23,8 @@ Add these in docker-compose.yml.org under concourse environment:
       no_proxy:    "no_proxy=localhost,127.0.0.0,127.0.1.1,127.0.1.1,local.home,vault"
 ```
 
+# 
+
 # demo.sh
 ```console
 ./demo.sh
@@ -63,7 +65,7 @@ http://127.0.0.1:8200
 
 Token: *root*
 
-# Concourse URL
+# Counourse URL
 
 http://127.0.0.1:8080
 
